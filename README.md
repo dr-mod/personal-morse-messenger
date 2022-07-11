@@ -27,7 +27,7 @@ python3 morse.py "Hello, world!"
 ```
 
 ### Case 
-A 3d printable case for this project can be found [here](https://www.thingiverse.com/dr2mod/designs).
+A 3d printable case for this project can be found [here](https://www.printables.com/social/306904-dmytro-panin/models).
 
 ### Support the project
 If you would like to support what I do and keep me caffeinated, you can do it here:
